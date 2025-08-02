@@ -1,0 +1,59 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+   body {
+      font-family: 'Manrope', sans-serif;
+      background-color: #0A0A0A;
+      color: #F5F5F5;
+      padding: 2rem;
+      line-height: 1.7;
+    }
+
+    h1 {
+      font-family: 'Cormorant Garamond', serif;
+      color: #D4AF37;
+      text-align: center;
+      font-size: 2.8rem;
+      margin-bottom: 2rem;
+    }
+
+    .hadith {
+      background-color: #111;
+      border: 1px solid #333;
+      border-left: 4px solid #D4AF37;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      border-radius: 15px;
+    }
+
+    .hadith-number {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.3rem;
+      color: #D4AF37;
+      margin-bottom: 0.5rem;
+    }
+
+    .hadith-arabic {
+      font-size: 1.1rem;
+      color: #ddd;
+      font-family: 'Amiri', serif;
+      direction: rtl;
+      margin-bottom: 1rem;
+    }
+
+    .hadith-english {
+      font-size: 1.05rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .reference {
+      font-size: 0.9rem;
+      color: #aaa;
+      font-style: italic;
+    }
+
+    .hadith-anumber {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.3rem;
+      color: #D4AF37;
+      margin-bottom: 0.5rem;
+      text-align: end;
+    }
